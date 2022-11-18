@@ -1,0 +1,4 @@
+expression:::A section of program text that, when executed, results in a value.  Technically, we say that an expression is "evaluated"
+loop:::A control flow construct that enables a specified section of the program (the loop body) to be repeatedly executed.  Examples are the while loop and for loop.
+operator:::A symbol, sometimes a word, that denotes an operation over one or more values, resulting in another value, for example, +, -, and, ==.
+assignment:::This is when a variable assocation is created or updated, associating a variable name with a value.  The name can be complex, denoting a entry in a list or dictionary.

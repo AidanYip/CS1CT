@@ -1,0 +1,7 @@
+Here is some scores data
+Each line contains name, average score, individual scores
+Cutts, Q, 8.0, 10, 6, 8 
+Jack, C, 31.714285714285715, 1, 2, 10, 19, 40, 69, 81 
+Jeremy, W, 19.5, 19, 20 
+Madoka, K, 10.0, 10 
+Victoria, Q, 37.8, 13, 21, 56, 89, 10 

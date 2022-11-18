@@ -1,0 +1,11 @@
+Here is some scores data
+Each line contains a name and some scores
+Cutts, Q, 10, 6, 8
+Singer, J
+Jack, C, 1, 2, 10, 19, 40, 69, 81
+Bob , B
+Happy, G
+Anna, H
+Jeremy, W, 19, 20
+Madoka, K, 10
+Victoria, Q, 13, 21, 56, 89, 100

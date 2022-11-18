@@ -1,0 +1,10 @@
+Bob
+2
+Mary
+5
+Jack
+7
+Mickey
+7
+Conan
+2

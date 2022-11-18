@@ -1,0 +1,1 @@
+write down their name and start counting their number of chat entries from 1 if it's a new name, otherwise add 1 to their total chat entries.

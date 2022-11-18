@@ -1,0 +1,141 @@
+a = [10, 20, 30]
+# [10, 20, 30]
+print(a)
+[10, 20, 30]
+a[2] = 100
+# [10, 20, 100]
+print(a)
+[10, 20, 100]
+# error (index out of range)
+print(a[3])
+Traceback (most recent call last):
+  File "<pyshell#7>", line 1, in <module>
+    print(a[3])
+IndexError: list index out of range
+a.append(50)
+# [10, 20, 100, 50]
+print(a)
+[10, 20, 100, 50]
+a[0] = a[0] + 5
+# [15, 20, 100, 50]
+print(a)
+[15, 20, 100, 50]
+b = [4, 5, 6]
+a.append(b)
+# [15, 20, 100, 50, [4, 5, 6]]
+print(a)
+[15, 20, 100, 50, [4, 5, 6]]
+# [4, 5, 6]
+print(a[4])
+[4, 5, 6]
+# 6
+print(a[4][2])
+6
+b[2] = 10
+# [4, 5, 10]
+print(b)
+[4, 5, 10]
+# 6
+print(a[4][2])
+10
+print(id(b[2]))
+4300374544
+print(id(a[4][2]))
+4300374544
+# 15
+# 20
+# 100
+# 50
+# [4, 5, 10]
+for x in a:
+    print(x)
+
+    
+15
+20
+100
+50
+[4, 5, 10]
+c = {"Fred": 23, "Alice": 5}
+# error
+print(c[0])
+Traceback (most recent call last):
+  File "<pyshell#39>", line 1, in <module>
+    print(c[0])
+KeyError: 0
+# error
+print(c[Fred])
+Traceback (most recent call last):
+  File "<pyshell#41>", line 1, in <module>
+    print(c[Fred])
+NameError: name 'Fred' is not defined
+# 5
+print(c["Alice"])
+5
+c["Hello"] = "Bob"
+# {"Fred": 23, "Alice": 5, "Hello": "Bob"}
+print(c)
+{'Fred': 23, 'Alice': 5, 'Hello': 'Bob'}
+# error
+print(c[23])
+Traceback (most recent call last):
+  File "<pyshell#48>", line 1, in <module>
+    print(c[23])
+KeyError: 23
+c[23] = 23
+# 23
+print(c[23])
+23
+c["arr"] = a
+# 4
+print(c["arr"][4][0])
+4
+# 23
+# 5
+# "Bob"
+# [15, 20, 100, 50, [4, 5, 10]]
+for x in c:
+    print(x)
+
+    
+Fred
+Alice
+Hello
+23
+arr
+for key in c:
+    print(x)
+
+    
+arr
+arr
+arr
+arr
+arr
+for key in c:
+    print(key)
+
+    
+Fred
+Alice
+Hello
+23
+arr
+for iteratekeys in c:
+    print(iteratekeys)
+
+    
+Fred
+Alice
+Hello
+23
+arr
+# True
+print("arr" in c)
+True
+# False
+print("arr" not in c)
+False
+# False
+print(5 in c)
+False

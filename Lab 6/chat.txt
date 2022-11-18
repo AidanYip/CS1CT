@@ -1,0 +1,133 @@
+12:01:58	 From Hermione Granger : hello!
+12:02:02	 From Bilbo Baggins : good morning
+12:02:03	 From Hercule Poirot : yo
+12:02:03	 From Sherlock Holmes : hi
+12:02:07	 From Princess Leia : heeyy
+12:02:14	 From Indiana Jones : yo!
+12:05:10	 From Peter Pan : Hey there!
+12:06:11	 From Marge Simpson : @random I love the background:)
+12:17:21	 From Hercule Poirot : farside is class
+12:27:46	 From Hercule Poirot : looks great
+12:27:56	 From Forrest Gump : comments are useful too
+12:28:12	 From Marge Simpson : ^^agreed
+12:28:22	 From Charlie Brown : So can we all edit the post from anyone and do we have to put our name in after we edited?
+12:29:19	 From Forrest Gump : It keeps an edit history in the history tab Charlie. So you can edit the post from anyone with a record kept in history, or comment on anyone's post separately.
+12:29:38	 From Charlie Brown : Thank you.
+12:38:56	 From Mary Poppins : Is there a common format for naming? 
+12:39:29	 From Marge Simpson : I know any name can b used for variables but is there any reason why f is the one usually used
+12:39:41	 From Tony Stark : I got told at higher that the name of the variable should relate to what it's supposed to do in some way
+12:39:58	 From Mary Poppins : So more a cultural thing than a set format ?
+12:40:37	 From Snow White : I think f is used to refer to file.
+12:40:45	 From Marge Simpson : kind of love the idea of writing a programme with deliberately misleading variable names
+12:41:26	 From Mary Poppins : cypher programming Marge lol 
+12:41:36	 From Buzz Lightyear : sneaky lecturers
+12:41:38	 From Bo Peep : Tony, I think that is just so that it makes sense when you are trying to read it, or someone else is reading it.
+12:41:38	 From Hercule Poirot : why can anyname be used in th foor loop again, I forget
+12:42:01	 From Peter Pan : And it is useful to name files so that you in two years understand what you were meaning))
+12:42:07	 From Jeremy Singer : @Marge you need to enter the obfuscated C competition ... https://www.ioccc.org/
+12:42:13	 From Mary Poppins : because it can be anyname. Its literal you could call it potato loop if youwanted
+12:42:53	 From Hercule Poirot : yeah I get that, my confusion is more why the name does not matter
+12:43:15	 From Marge Simpson : that sounds fun ! never used c in my life but I'm
+12:43:26	 From Marge Simpson : I'll just go with it
+12:45:40	 From Doctor Who : should the single names file just include the single name people or the first name of everyone?
+12:45:54	 From Indiana Jones : we're solving this with our teams tutorial group, right/
+12:46:49	 From Buzz Lightyear : honestly im not sure if ive got the right group..
+12:48:11	 From Dorothy Gale : Can you put the question up again please?
+12:48:15	 From Buzz Lightyear : ^^
+12:48:29	 From Buzz Lightyear : thank you :)
+12:48:30	 From Quintin Cutts : Sorry - there it is now…
+12:48:36	 From Dorothy Gale : thank you!
+12:50:18	 From Elizabeth Bennett : sorry could you put up the task for a second
+12:50:44	 From Quintin Cutts : Hi Elizabeth - I think it is up - it's showing on my screen
+12:50:49	 From Dorothy Gale : It's on the main screen
+12:51:14	 From Quintin Cutts : Oh Sorry - you mean what to do - identify aspects of this task that are like others you've solved already - what other problems is it like?  Can you see reusable patterns...
+12:51:20	 From Elizabeth Bennett : sorry the actual question as in "discuss in your teams..."
+12:51:27	 From Elizabeth Bennett : ah okay]
+12:51:29	 From Elizabeth Bennett : thanks
+12:51:55	 From Buzz Lightyear : how long are we here for?
+12:52:15	 From Quintin Cutts : Another minute or so
+12:54:59	 From Indiana Jones : 3 variables for opening the file
+12:55:05	 From Hercule Poirot : if/else
+12:55:11	 From Indiana Jones : but we're writing data onto 2 files
+12:55:18	 From Doctor Who : while loop
+12:55:19	 From Forrest Gump : Q5 and Q7 had similar functions
+12:55:26	 From Peter Pan : extract the data from names.txt
+12:55:34	 From Hercule Poirot : split()
+12:55:41	 From Peter Pan : slicing
+12:55:44	 From Ada Lovelace : calculate number of items?
+12:55:46	 From Indiana Jones : while file.readline() != ""
+12:55:48	 From Hercule Poirot : if len = 1 
+12:55:49	 From Charles Babbage : use if/else statements to check the conditions
+12:55:53	 From Elizabeth Bennett : !="": in the while loop
+12:55:57	 From Hercule Poirot : write in singlenames
+12:56:00	 From Princess Leia : If/else, if there is one name then we put it in the single file
+12:56:16	 From Peter Pan : yes
+12:56:16	 From Alan Turing : figure out whether each line is 1 name, 2 names or more than 2 names
+12:56:44	 From Princess Leia : Else if there are more values then we just keep the first and last
+12:56:56	 From Elizabeth Bennett : separate the strings by spaces. ()
+12:57:15	 From George Boole : reading unknown amount of lines from the file (for len of the file)
+12:58:01	 From Bilbo Baggins : is using something like SplitData[(numberofitems - 1)] legal?
+12:58:17	 From Lucy Pevensie : reate a list from ach line of the document
+12:58:18	 From Hercule Poirot : if len() = 1
+12:58:21	 From Indiana Jones :  we would use indexing
+12:58:22	 From Charles Babbage : check the length of a list containing the names
+12:58:22	 From Wendy Darling : length
+12:58:28	 From Alan Turing : if, elif, else len(<names>) = 2
+12:58:28	 From William Brown : Put them in a list separated by spaces and check how many items are in there
+12:58:29	 From Ada Lovelace : if/else for numberOfItems depending on condition needed
+12:58:30	 From Mary Poppins : [0]   [-1]  to select first and last name
+12:58:33	 From Lucy Pevensie : a list
+12:58:35	 From Hercule Poirot : split()
+12:58:39	 From Miss Havisham : list
+12:58:41	 From Wendy Darling : the list we create from each line
+12:58:49	 From Nigel Molesworth : split
+12:58:50	 From Queen Guinevere : we could convert the line to a list and just read the first and last items
+12:58:50	 From Lucy Pevensie : split
+12:58:51	 From George Boole : .split()
+12:58:52	 From Hercule Poirot : split
+12:58:53	 From Charlie Brown : split
+12:58:53	 From Madame Bovary : split by space
+12:58:54	 From Wendy Darling : split on each line
+12:59:08	 From Tom Jones : .split()
+12:59:11	 From Charlie Brown : Can we use another if under else: ?
+12:59:16	 From Wendy Darling : and slice the end
+12:59:18	 From Charlie Brown : or another else under else
+12:59:39	 From Snow White : else if??
+12:59:41	 From Nigel Molesworth : if, elseif, else
+12:59:41	 From Lucy Pevensie : could you avoid it being three conditions?
+13:00:13	 From Lucy Pevensie : by only checking if it's one name or more than one. And then if it's more than one name you just draw from the first and last item of a list
+13:00:20	 From Lucy Pevensie : assuming we ar doing the list thing
+13:00:22	 From Tony Stark : For the last part of the question about singleNames.txt, do we write everyone's first names into the file, or do we write only the ones that inputted 1 name into the original file?
+13:00:48	 From Bilbo Baggins : what if the line is empty?
+13:01:10	 From Wendy Darling : right while loop in the beginning?
+13:01:33	 From Peter Pan : Is there a quiz on Friday?
+13:03:55	 From Hercule Poirot : oldFile = open("names.txt")
+13:03:58	 From Mary Poppins : will the quiz be on this topic or Jeremys?
+13:03:58	 From Albus Dumbledore : Thank you!
+13:03:58	 From Bo Peep : thank you
+13:04:03	 From Buzz Lightyear : thank you!
+13:04:03	 From Dr Watson : thank you
+13:04:03	 From Princess Leia : Thank you!!
+13:04:04	 From Indiana Jones : thank you!
+13:04:05	 From Sherlock Holmes : thank you
+13:04:06	 From Peter Pan : thank you!
+13:04:06	 From Rupert Psmith : thanks Quintin!
+13:04:06	 From Nigel Molesworth : thank u :)
+13:04:07	 From Bertie Wooster : thanks
+13:04:08	 From Paddington Bear : thank you :)
+13:04:08	 From Charlie Brown : Thank you
+13:04:09	 From Horatio Hornblower : Thanks
+13:04:11	 From Elizabeth Bennett : thank you
+13:04:13	 From Moll Flanders : thank you
+13:04:13	 From Marge Simpson : Thanku kindly!!!
+13:04:14	 From Hercule Poirot : thank you!!
+13:04:14	 From Miss Havisham : thank you
+13:04:14	 From Moby Dick : thanks
+13:04:16	 From Billy Bunter : Thank you!!
+13:04:17	 From Tom Jones : Thanks 
+13:04:27	 From William Brown : Thank you
+13:05:51	 From Albus Dumbledore : Is the quiz on everything we've learnt in topic 1?
+13:06:06	 From Mary Poppins : ...you changed the cow that was going to be CS mascot Quinin
+13:06:16	 From Mary Poppins : opp no its back 
+13:09:11	 From Ada Lovelace : How to write out only first and last name for those with more than 2 names, if the number of names in the line are unknown? (as in, the number of middle names are unknown)
+13:19:01	 From Quintin Cutts : random@glasgow.ac.uk

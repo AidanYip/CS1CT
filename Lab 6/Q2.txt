@@ -1,0 +1,31 @@
+Example 1:
+Books stored in a library, a dicionary with books organized by A-Z, and each alphabet contains a list of books that starts with their corresponding alphabet.
+
+Books = {
+	"A": [...],
+	"B": [...],
+	"C": [...],
+	...
+	"Z": [...]
+}
+
+
+Example 2:
+Students in a school, students are separated into different levels (secondary 1, 2 etc)(can use a dictionary) and students in different classes (can use dictionary) and use a dictionary to store each student's personal information.
+
+School = {
+	"Secondary 1": {"1A": {"Bob": {"Age": 12, "Gender": M, ...}}},
+	"Secondary 2": {"2C": {"Bill": {"Age": 13, "Gender": M, ...}}},
+	...
+}
+
+
+Example 3:
+Travel history, record the places travelled with a dictionary containing the countries visited. Each country contains a dictionary of dates keeping track of day of arrival and each date contains a list of the cities/tourist spots visited.
+
+Travel = {
+	"Afghanistan": {"01/01/2000": [...], "01/01/2010": [...], ...},
+	"Japan": {"10/11/2002": ["Tokyo", ...], ...},
+	"United States": {"09/09/2001": ["New York", ...], },
+	...
+}

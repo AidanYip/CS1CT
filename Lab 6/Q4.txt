@@ -1,0 +1,11 @@
+Q4i
+Key value pair is name + number of chat entries
+{
+	"name": number
+}
+
+Q4ii
+Dictionary
+
+Q4iii
+"name": number
